@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "https://.com",
+  "scripts": {
+    "start": "marp -p -s",
+    "build": "marp"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.4.0"
+  },
+  "marp": {
+      "inputDir": "./slides",
+      "output": "./dist",
+      "bespoke": {
+          "progress": true
+      }
+  }
+}
