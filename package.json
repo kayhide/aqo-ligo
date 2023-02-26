@@ -4,17 +4,10 @@
   "description": "",
   "homepage": "https://.com",
   "scripts": {
-    "start": "marp -p -s",
-    "build": "marp"
+    "start": "marp -ps",
+    "build": "marp && cp -r assets dist/assets"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^2.4.0"
-  },
-  "marp": {
-      "inputDir": "./slides",
-      "output": "./dist",
-      "bespoke": {
-          "progress": true
-      }
   }
 }

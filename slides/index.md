@@ -83,7 +83,7 @@ Caltech and MIT
   }
 </style>
 
-[![](Ripples_in_Spacetime_Pond.jpg)](Ripples_in_Spacetime_Pond.mp4)
+[![](./assets/Ripples_in_Spacetime_Pond.jpg)](./assets/Ripples_in_Spacetime_Pond.mp4)
 
 
 LIGO Lab Caltech : MIT
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ## Basic Michelson Interferometer
 
-![bg right 95%](Basic_michelson_labeled.jpg)
+![bg right 95%](./assets/Basic_michelson_labeled.jpg)
 
 1) L-shaped
 2) Mirrors
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ## Arm length
 
-![bg right 95%](Basic_michelson_labeled.jpg)
+![bg right 95%](./assets/Basic_michelson_labeled.jpg)
 
 * Longer is better
 * Arm length ~ 4km
@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ## Fabry Parot cavities
 
-![bg right 95%](Basic_michelson_with_FP_labeled.jpg)
+![bg right 95%](./assets/Basic_michelson_with_FP_labeled.jpg)
 
 * More mirrors
 * 300 times
@@ -128,7 +128,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ## Power Recycling Mirror
 
-![bg right 95%](Basic_michelson_with_FP_and_PR_labeled.jpg)
+![bg right 95%](./assets/Basic_michelson_with_FP_and_PR_labeled.jpg)
 
 * Yet another mirror
 * _Nearly all_ of the laser light goes the path to the PR mirror
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ## Advanced LIGO
 
-![bg right 95%](iLIGO_vs_aLIGO_susp_comparison_w_caption.jpg)
+![bg right 95%](./assets/iLIGO_vs_aLIGO_susp_comparison_w_caption.jpg)
 
 - Built taking 7 years
     - 2008 - 2015
@@ -165,7 +165,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
   p { font-size: 0.5rem; }
 </style>
 
-![](LIGO_measurement_of_gravitational_waves.png)
+![](./assets/LIGO_measurement_of_gravitational_waves.png)
 
 Made on 14 September 2015
 Announced on 11 February 2016
@@ -177,7 +177,7 @@ Announced on 11 February 2016
   p { font-size: 0.5rem; }
 </style>
 
-[![](First_LIGO_Virgo_detection.jpg)](First_LIGO_Virgo_detection_of_a_binary_neutron_star_merger.mp4)
+[![](./assets/First_LIGO_Virgo_detection.jpg)](./assets/First_LIGO_Virgo_detection_of_a_binary_neutron_star_merger.mp4)
 
 
 First LIGO/Virgo detection of a binary neutron star merger (GW170817)
@@ -189,14 +189,7 @@ Time-frequency representation (spectrogram) of the LIGO-Hanford and LIGO-Livings
 
 ## Conclusion
 
-LIGO is a masterpiece of complex and sophisticated engineering.
-
-* Super-stabilized lasers
-* Enormous vacuum systems
-* Pure optics
-* Vibration isolation
-* Servo controls
-* All work symbiotically
+- Laser Interferometer is good to...
 * Detect a gravitational wave
 
 ## References
