@@ -159,7 +159,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 ![bg right 95%](./assets/Basic_michelson_labeled.jpg)
 
 * Longer is better
-* Arm length ~ 4km
+* Arm length ~ [4km](https://goo.gl/maps/kLfKs18huum9VgJH8)
 * <-> 1.3m
     - by Michelson and Morley
     - to study Aether
@@ -173,7 +173,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 * More mirrors
 * 300 times
-* 4km x 300 = 1,200km
+* 4km x 300 = [1,200km](https://goo.gl/maps/kLfKs18huum9VgJH8)
 * But...
 * We need more power
     - 40W vs 750kW
