@@ -18,26 +18,70 @@ The National Science Foundation
 Caltech and MIT
 
 
+## TOC
+
+- **Introduction**
+- Theory
+- Setup
+- Observation
+- Conclusion
+
+## Introduction
+
+- LIGO is ...
+* **Observatory** to detect ...
+* **Gravitational Wave**
+* Two were built in the United States
+
+##
+
+![bg 95%](./assets/Ligo_states.png)
+
+##
+
+<style scoped>
+  img:nth-of-type(1) {
+      position: absolute;
+      top: 30%;
+      left: 1rem;
+      width: 45%;
+  }
+  img:nth-of-type(2) {
+      position: absolute;
+      top: 10%;
+      right: 1rem;
+      width: 45%;
+  }
+</style>
+
+![bg 95%](./assets/Ligo_states.png)
+
+![](./assets/Ligo_Hanford.jpeg)
+![](./assets/Ligo_Livingston.jpeg)
 
 ## TOC
 
-<style>
-  section { background-color: "#ccaa00"; }
-  section.lead h1 { text-align: center; }
-</style>
-
-- Theory
-    - Gravitational wave
-    - Detection
+- Introduction
+- **Theory**
 - Setup
 - Observation
 - Conclusion
 
 
-## Theory - Gravitational wave
+##
+
+![bg right 80%](./assets/Einstein.jpg)
 
 * General Relativity
-    - Einstein's equation
+* Gravitational Wave
+  - 1916
+
+
+## General Relativity
+
+![bg right 80%](./assets/Einstein.jpg)
+
+* Einstein's equation
     - $R_{\mu\nu} - {1 \over 2} R g_{\mu\nu} = {8 \pi G \over c^4} T_{\mu\nu}$
 * Lagrangean formulation
     - Einstein-Hilbert action
@@ -45,17 +89,16 @@ Caltech and MIT
 * Linearlize it
     - $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$
 
-## Theory - Gravitational wave
+## Transverse-Traceless Gauge
 
 - Transform
     - $x^\mu \longrightarrow x'^\mu = x^\mu + \xi^\mu(x)$
     - $h_{\mu\nu} \longrightarrow h_{\mu\nu} = h'_{\mu\nu} - \partial_\mu \xi_\nu - \partial_\nu \xi_\nu$
-* Convenient gauge transformation
     - $\partial^\mu \bar{h}_{\mu\nu} \longrightarrow (\partial^\nu \bar{h}_{\mu\nu})' = \partial^\nu h_{\mu\nu} - \square\xi_\mu$
 * Fix gauge (transverse-traceless gauge)
     - $h^{0 \mu} = 0, h^i_i = 0, \partial^i h_{ij} = 0$
 
-## Theory - Gravitational wave
+## Ansatz and Solutions
 
 - Transverse-traceless gauge
     - $\square h_{\mu\nu}^{TT} = 0$
@@ -65,11 +108,10 @@ Caltech and MIT
     - $k^i h_{ij} = 0$
     - $k^\mu = (\omega, \boldsymbol{k})$
 
-## Theory - Gravitational wave
+## Gravitational Wave
 
 - ${\boldsymbol{k} \over \left| k \right|} = \hat{\boldsymbol{z}}$
 - $h_{ij}^{TT}(t, z) = \left( \matrix{h_+ & h_x & 0 \cr h_x & - h_+ & 0 \cr 0 & 0 & 0} \right) \cos[\omega(t + z)]$
-
 
 ## Ripples in Spacetime Pond
 
@@ -89,18 +131,28 @@ Caltech and MIT
 LIGO Lab Caltech : MIT
 https://www.youtube.com/watch?v=zLAmF0H-FTM
 
-## Difficulty
+## TOC
 
-- $10^{-19}m$
-- 10,000 times smaller than a proton
+- Introduction
+- Theory
+- **Setup**
+- Observation
+- Conclusion
 
-## Basic Michelson Interferometer
+
+## Michelson Interferometer
 
 ![bg right 95%](./assets/Basic_michelson_labeled.jpg)
 
 1) L-shaped
 2) Mirrors
 3) Photodetector
+
+## Challenge
+
+* Gravitational wave is so weak
+* $10^{-19}m$
+    - 10,000 times smaller than a proton
 
 ## Arm length
 
@@ -112,10 +164,10 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
     - by Michelson and Morley
     - to study Aether
 * But...
-* 4km is still too short to detect gravitational wave
+* Still too short to detect gravitational wave
 
 
-## Fabry Parot cavities
+## Fabry Parot Cavities
 
 ![bg right 95%](./assets/Basic_michelson_with_FP_labeled.jpg)
 
@@ -145,7 +197,7 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 * Better mirrors
 * Better suspension
 * Better seismic isolation
-* 10 times more sensitive than the initial LIGO
+* Aimed 10 times more sensitive than the initial LIGO
 
 ## Advanced LIGO
 
@@ -156,7 +208,15 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 - Better mirrors
 - Better suspension
 - Better seismic isolation
-- 10 times more sensitive than the initial LIGO
+- 4 times more sensitive than the initial LIGO
+
+## TOC
+
+- Introduction
+- Theory
+- Setup
+- **Observation**
+- Conclusion
 
 ## First Observation - GW150914
 
@@ -167,8 +227,8 @@ https://www.youtube.com/watch?v=zLAmF0H-FTM
 
 ![](./assets/LIGO_measurement_of_gravitational_waves.png)
 
-Made on 14 September 2015
-Announced on 11 February 2016
+Made on 14 September 2015, Announced on 11 February 2016.
+Two black holes colliding and merging into one nearly 1.3 BILLION light years away.
 
 ## Another detection - GW170817
 
@@ -186,11 +246,23 @@ https://www.youtube.com/watch?v=_SQbaILipjY
 
 Time-frequency representation (spectrogram) of the LIGO-Hanford and LIGO-Livingston data. Your ears are the two LIGO detectors. The observed data is revealed in real time, accompanied by the audio presentation of the plotted data.
 
+## TOC
+
+- Introduction
+- Theory
+- Setup
+- Observation
+- **Conclusion**
 
 ## Conclusion
 
-- Laser Interferometer is good to...
-* Detect a gravitational wave
+Laser Interferometer is ...
+
+## Conclusion
+
+Laser Interferometer is good to
+
+### <!-- fit --> Detect a Gravitational Wave :+1:
 
 ## References
 
